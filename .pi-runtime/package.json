@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@earendil-works/pi-coding-agent": "^1.5.0",
+    "pi-codex-image-gen": "^0.3.1"
+  }
+}

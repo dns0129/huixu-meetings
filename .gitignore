@@ -1,0 +1,12 @@
+data/
+.pi-runtime/node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+文件/
+outputs/
+.codex-finalizer/
+.env
+.env.*
